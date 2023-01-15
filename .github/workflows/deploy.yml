@@ -35,8 +35,8 @@ jobs:
         
     # Gradle build 
     - name: Build with Gradle 
-      uses: gradle/gradle-build-action@v2
-      with:
+       uses: gradle/gradle-build-action@0d13054264b0bb894ded474f08ebb30921341cee
+       with:
         arguments: build
         
     # AWS 인증 (IAM 사용자 Access Key, Secret Key 활용)
