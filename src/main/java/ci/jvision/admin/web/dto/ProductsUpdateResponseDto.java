@@ -1,6 +1,5 @@
-package ci.jvision.admin.ShoppingMall.web.dto;
+package ci.jvision.admin.web.dto;
 
-import ci.jvision.admin.ShoppingMall.domain.products.Products;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

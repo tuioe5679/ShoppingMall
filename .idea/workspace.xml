@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f6fb407-c32e-48f1-bb75-051a0296d2e1" name="Changes" comment="" />
+    <list default="true" id="8f6fb407-c32e-48f1-bb75-051a0296d2e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/controller/ProductsApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/controller/ProductsApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/controller/indexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/controller/indexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/domain/products/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/domain/products/Products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/domain/products/ProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/domain/products/ProductsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/service/ProductsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/service/ProductsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsListResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsListResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsSaveRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsSaveRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsUpdateResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsUpdateResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +31,88 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FzMK19TvZFF17CXrnh3djisN8q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/이한/Desktop/Devlop Project(git)/ShoppingMall",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.46781608",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\이한\Desktop\Devlop Project(git)\ShoppingMall\src\main\resources" />
+      <recent name="C:\Users\이한\Desktop\Devlop Project(git)\ShoppingMall\src\main\java\ci\jvision\admin\controller" />
+      <recent name="C:\Users\이한\Desktop\Devlop Project(git)\ShoppingMall\src\main\java\ci\jvision\admin\domain\products" />
+      <recent name="C:\Users\이한\Desktop\Devlop Project(git)\ShoppingMall\src\main\java\ci\jvision\admin\web\dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ci.jvision.admin.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ci.jvision.admin.Application" />
+      <module name="ShoppingMall.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ci.jvision.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingMall [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Gradle.ShoppingMall [dependencies]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,5 +124,16 @@
       <updated>1665490394272</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

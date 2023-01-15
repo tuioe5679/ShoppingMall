@@ -1,11 +1,10 @@
-package ci.jvision.admin.ShoppingMall.controller;
+package ci.jvision.admin.controller;
 
-import ci.jvision.admin.ShoppingMall.service.ProductsService;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsListResponseDto;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsResponseDto;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsSaveRequestDto;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsUpdateResponseDto;
-import lombok.Getter;
+
+import ci.jvision.admin.service.ProductsService;
+import ci.jvision.admin.web.dto.ProductsResponseDto;
+import ci.jvision.admin.web.dto.ProductsSaveRequestDto;
+import ci.jvision.admin.web.dto.ProductsUpdateResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,7 +1,7 @@
-package ci.jvision.admin.ShoppingMall.controller;
+package ci.jvision.admin.controller;
 
-import ci.jvision.admin.ShoppingMall.service.ProductsService;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsResponseDto;
+import ci.jvision.admin.service.ProductsService;
+import ci.jvision.admin.web.dto.ProductsResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

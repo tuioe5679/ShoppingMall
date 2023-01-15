@@ -1,11 +1,11 @@
-package ci.jvision.admin.ShoppingMall.service;
+package ci.jvision.admin.service;
 
-import ci.jvision.admin.ShoppingMall.domain.products.Products;
-import ci.jvision.admin.ShoppingMall.domain.products.ProductsRepository;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsListResponseDto;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsResponseDto;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsSaveRequestDto;
-import ci.jvision.admin.ShoppingMall.web.dto.ProductsUpdateResponseDto;
+import ci.jvision.admin.domain.products.Products;
+import ci.jvision.admin.domain.products.ProductsRepository;
+import ci.jvision.admin.web.dto.ProductsListResponseDto;
+import ci.jvision.admin.web.dto.ProductsResponseDto;
+import ci.jvision.admin.web.dto.ProductsSaveRequestDto;
+import ci.jvision.admin.web.dto.ProductsUpdateResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
