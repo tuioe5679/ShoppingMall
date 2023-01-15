@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f6fb407-c32e-48f1-bb75-051a0296d2e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8f6fb407-c32e-48f1-bb75-051a0296d2e1" name="Changes" comment="fianl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/controller/ProductsApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/controller/ProductsApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/controller/indexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/controller/indexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/domain/products/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/domain/products/Products.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/domain/products/ProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/domain/products/ProductsRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/service/ProductsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/service/ProductsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsListResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsListResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsSaveRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsSaveRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsUpdateResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ci/jvision/admin/web/dto/ProductsUpdateResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout/header.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout/header.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/posts-save.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/posts-save.mustache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +111,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665490394272</updated>
     </task>
+    <task id="LOCAL-00001" summary="fianl">
+      <created>1673785703777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673785703777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,5 +131,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fianl" />
+    <option name="LAST_COMMIT_MESSAGE" value="fianl" />
   </component>
 </project>
