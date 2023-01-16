@@ -8,7 +8,7 @@ on:
     
 env:
   AWS_REGION: ap-northeast-2 # 리전 국가 서울(ap-northeast-2)
-  S3_BUCKET_NAME: tuioe-github-actions-s3-buckey # s3 버킷 이름 
+  S3_BUCKET_NAME: tuioe-github-actions-s3-bucket # s3 버킷 이름 
   CODE_DEPLOY_APPLICATION_NAME: tuioe-codedeploy-app # CodeDeploy 앱이름 
   CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: tuioe-codedeploy-deployment-group # CodeDeploy 그룹 이름 
   
